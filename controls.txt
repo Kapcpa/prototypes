@@ -1,0 +1,3 @@
+1st prototype - wsad to move, space to shoot, left shift to regroup
+2nd prototype - wsad and arrows to move, left shift or space to shoot, left ctrl or right shift to switch
+3rd prototype - arrows + x to shoot
